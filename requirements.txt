@@ -1,0 +1,12 @@
+behave
+requests
+logging
+pytest
+python-dotenv
+jsonschema
+behave-requests
+behave-html-formatter
+responses
+selenium
+webdriver-manager
+allure-behave

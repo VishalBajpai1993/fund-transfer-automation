@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  test_runner:
+    build: .
+    container_name: test_runner
+    volumes:
+      - ./allure-results:/app/allure-results
+      - ./allure-report:/app/allure-report
+    command: python run_tests.py && python run_ui_tests.py

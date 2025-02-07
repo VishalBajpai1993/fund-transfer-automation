@@ -1,0 +1,35 @@
+2025-02-07 11:50:07,295 - INFO - Initializing Edge WebDriver...
+2025-02-07 11:50:07,295 - INFO - ====== WebDriver manager ======
+2025-02-07 11:50:09,200 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2025-02-07 11:50:09,472 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2025-02-07 11:50:09,733 - INFO - Driver [C:\Users\Vishal\.wdm\drivers\edgedriver\win64\132.0.2957.140\msedgedriver.exe] found in cache
+2025-02-07 11:50:11,663 - INFO - Navigating to GomSpace website: https://gomspace.com
+2025-02-07 11:50:14,911 - INFO - Checking for cookie consent pop-up...
+2025-02-07 11:50:15,126 - INFO - Cookie pop-up detected. Clicking 'Accept' button.
+2025-02-07 11:50:17,354 - INFO - Cookie pop-up handled successfully.
+2025-02-07 11:50:17,940 - INFO - GomSpace website opened successfully.
+2025-02-07 11:50:17,941 - INFO - Attempting to click on the 'Products' menu.
+2025-02-07 11:50:18,659 - INFO - Products menu clicked. Selecting a subcategory.
+2025-02-07 11:50:19,584 - INFO - Subcategory 'Power Systems' selected successfully.
+2025-02-07 11:50:19,585 - INFO - Checking the number of displayed products.
+2025-02-07 11:50:19,612 - INFO - Product verification successful. Found 1 products.
+2025-02-07 11:50:19,613 - INFO - Checking each product for title and description.
+2025-02-07 11:50:19,684 - INFO - Verified product: NanoPower P80 - A power supply module for large nanosatellites or small microsatellites
+2025-02-07 11:50:22,297 - INFO - Initializing Edge WebDriver...
+2025-02-07 11:50:22,297 - INFO - ====== WebDriver manager ======
+2025-02-07 11:50:24,396 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2025-02-07 11:50:24,783 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2025-02-07 11:50:24,949 - INFO - Driver [C:\Users\Vishal\.wdm\drivers\edgedriver\win64\132.0.2957.140\msedgedriver.exe] found in cache
+2025-02-07 11:50:27,119 - INFO - Navigating to GomSpace website: https://gomspace.com
+2025-02-07 11:50:31,653 - INFO - Checking for cookie consent pop-up...
+2025-02-07 11:50:31,832 - INFO - Cookie pop-up detected. Clicking 'Accept' button.
+2025-02-07 11:50:34,212 - INFO - Cookie pop-up handled successfully.
+2025-02-07 11:50:34,853 - INFO - GomSpace website opened successfully.
+2025-02-07 11:50:34,855 - INFO - Attempting to click on the 'Products' menu.
+2025-02-07 11:50:35,544 - INFO - Products menu clicked. Selecting a subcategory.
+2025-02-07 11:50:36,568 - INFO - Subcategory 'Power Systems' selected successfully.
+2025-02-07 11:50:36,569 - INFO - Clicking on 'Read more' button for a product.
+2025-02-07 11:50:37,604 - INFO - Found 'Read more' button in view.
+2025-02-07 11:50:40,108 - INFO - Clicked on 'Read more' button successfully.
+2025-02-07 11:50:40,109 - INFO - Verifying product details page is displayed.
+2025-02-07 11:50:40,442 - INFO - Successfully navigated to the product details page: ADD TO QUOTE REQUEST
