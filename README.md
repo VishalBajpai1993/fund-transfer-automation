@@ -1,23 +1,22 @@
 # 🚀 Fund Transfer API & UI Test Suite
 
 This project contains automated tests for:
-- ✅ **Fund Transfer API** (Backend API Testing)
-- ✅ **GomSpace Web UI** (UI Testing with Selenium WebDriver)
+- **Fund Transfer API** (Backend API Testing)
+- **Web UI** (UI Testing with Selenium WebDriver)
 
-Both tests run inside a **Docker container**, so no manual setup is required!
+# Fund Transfer API & UI Automation Suite
 
----
+## How to Run Tests
 
-## **📌 How to Run Tests**
-### **Prerequisites**
-1. Install **Docker** and **Docker Compose** on your system.  
-   - [Download Docker](https://www.docker.com/get-started)
+You need to set up the environment first. Follow these steps:
 
-### **✅ Running Tests (One Command)**
-1. Open a terminal and navigate to the project folder.
-2. Run the following command:
+### Setup Instructions:
+
+1. **Clone the repository**:
    ```sh
-   docker-compose up
+   git clone https://github.com/VishalBajpai1993/fund-transfer-automation.git
+   cd fund-transfer-automation
+
 
 Note - 
 How to run a single feature or Scnerio.
